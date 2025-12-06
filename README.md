@@ -15,13 +15,13 @@ To support better planning for surveillance, patrolling, and community safety.
 
 ## 🔍 Approach & Methodology
 
-Data Collection & Cleaning
+1.Data Collection & Cleaning
 
 Crime and incident data categorized by location, time, crime type, seasons, etc.
 
 Data preprocessing handled using Python (Pandas, NumPy).
 
-Model Development
+2.Model Development
 
 Machine learning model developed using scikit-learn.
 
@@ -29,7 +29,7 @@ Compared multiple models to find the best-performing algorithm.
 
 Achieved ~30% improvement in prediction accuracy vs baseline.
 
-Visualization & Reporting
+3.Visualization & Reporting
 
 Created interactive maps and dashboards in Power BI.
 
